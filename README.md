@@ -8,6 +8,7 @@ This project provides a comprehensive solution for working with Tableau’s meta
 - **Support for Large Metadata**: The code is optimized to handle up to 100k tokens, allowing for processing large and complex metadata sets.
 
 ## Requirements:
+- Tested using python 3.9
 - OpenAI API key (for accessing GPT models).
 - Optional: Tableau Server credentials for interacting with Tableau’s API.
 
