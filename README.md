@@ -1,4 +1,4 @@
-<img src="https://github.com/viaConBodhi/tableau-metadata-ai-notebook/blob/main/image/tableau_meta.png" alt="My Project Logo" width="300" height='300' />
+<img src="https://github.com/viaConBodhi/tableau-metadata-ai-notebook/blob/main/image/tableau_meta.png" alt="My Project Logo" width="200" height='200' />
 
 # Tableau-Metadata-AI-Notebook
 This project provides a comprehensive solution for working with Tableau’s metadata using Python and generative AI models. The notebook leverages Tableau’s REST and Document APIs to extract details from Tableau Server, parse Tableau workbook metadata, and utilize OpenAI’s GPT models to generate insightful descriptions of workbooks, dashboards, and data sources. This project aims to automate metadata documentation and make it accessible to both technical and non-technical users.
